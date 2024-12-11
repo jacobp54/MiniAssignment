@@ -1,0 +1,2 @@
+# MiniAssignment
+School
